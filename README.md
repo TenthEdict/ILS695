@@ -1,2 +1,6 @@
 # ILS695
-codebooks
+## Introduction to Computational Text Analysis
+- Codebooks
+- datasets
+- original code
+- found code 
